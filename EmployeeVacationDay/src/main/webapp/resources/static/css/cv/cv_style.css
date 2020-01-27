@@ -1,0 +1,51 @@
+ .class1{
+   position: absolute ;
+      top: 70px;
+      left: 39px;
+	  color:white;
+	  font-size: 15px;
+	  font-family: Sans-serif; 
+   }
+   
+   
+   .color{	   
+	   color: #E1E9EE;
+   }
+   
+ .class2{
+   position: absolute ;
+      top: 30px;
+      left: 350px;
+	  color:black;
+	  font-size: 36px;
+	  font-family: Sans-serif; 
+   }
+  .class3{
+   position: absolute ;
+      top: 100px;
+      left:355px;
+	  color:black;
+	  font-size: 15px;
+	  font-family: Sans-serif; 
+   }  
+    .class4{
+   position: absolute ;
+      top: 160px;
+      left: 350px;
+	  color:black;
+	  font-size: 15px ;
+	  font-family: Sans-serif; 
+   }
+       .class5{
+	  color:black;
+	  font-size: 20px ;
+	  font-family: Sans-serif; 
+	  font-weight: bold;
+   }
+   
+   #icerik{
+	   	  font-size: 15px ;
+	min-width: 100px;
+	max-width: 500px;
+
+}

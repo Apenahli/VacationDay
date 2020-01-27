@@ -1,0 +1,62 @@
+/*-------------------------------- END ----*/
+#body-row {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+#sidebar-container {
+	min-height: 100vh;
+	background-color:#F9FAFC ;  /*#222D32 #132644 #191919 */
+	padding: 0;
+	/* flex: unset; */
+}
+
+.sidebar-expanded {
+	width: 230px;
+}
+
+.sidebar-collapsed {
+	/*width: 60px;*/
+	width: 100px;
+}
+
+/* ----------| Menu item*/
+#sidebar-container .list-group a {
+	height: 50px;
+	color: black; /* #B3C5CE */
+}
+
+/* ----------| Submenu item*/
+#sidebar-container .list-group li.list-group-item {
+	background-color:  #F9FAFC; 
+}
+
+#sidebar-container .list-group .sidebar-submenu a {
+	height: 45px;
+	padding-left: 30px;
+}
+
+.sidebar-submenu {
+	font-size: 0.9rem;
+}
+
+/* ----------| Separators */
+.sidebar-separator-title {
+	background-color:  #F9FAFC; 
+	height: 35px;
+}
+
+.sidebar-separator {
+	background-color:  #F9FAFC; 
+	height: 25px;
+}
+
+.logo-separator {
+	background-color:  #F9FAFC; 
+	height: 60px;
+}
+
+a.bg-dark {
+	background-color:  #F9FAFC !important;
+	
+}

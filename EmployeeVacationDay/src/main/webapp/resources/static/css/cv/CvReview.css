@@ -1,0 +1,18 @@
+.content-left{
+    float: left;
+    width: 20%;
+    height: 1500px;
+    background-color: #2a3e49 /* #2a3e49 */;
+}
+.content-right {
+    float: right;
+    width: 80%;
+    height: 1500px;
+    background-color: #ffffff;
+}
+
+.skills{
+	width: 70%;
+	
+}
+

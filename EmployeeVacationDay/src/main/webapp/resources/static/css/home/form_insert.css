@@ -1,0 +1,263 @@
+html, body {
+	height: 100;
+	margin: 0;
+		background: -webkit-linear-gradient(90deg, #F4F6F6, #7F8C8D);
+	background: linear-gradient(90deg, #F4F6F6, #7F8C8D); 
+/* 	background: -webkit-linear-gradient(90deg, #eee, #eee);
+	background: linear-gradient(90deg, #eee, #eee); */
+	font-family: sans-serif;
+	font-weight: 100px;
+}
+
+input[type=text], select {
+	width: 35%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+
+input[type=submit] {
+	text-decoration: none;
+	color: white;
+	width: 10%;
+	background-color: #c0c0c0;
+	display: inline-block;
+	color: white;
+	padding: 14px 20px;
+	margin: 4px 0;
+	margin-left: 530px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	-webkit-transition-duration: 0.4s;
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+
+input[type=submit]:hover {
+	background-color: #D8BFD8;
+}
+
+div {
+	border-radius: 5px;
+	background-color: #f2f2f2;
+	padding: 20px;
+	width: 600px;
+	height: 800px;
+	margin-left: 350px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	
+	/* f2f2f2 */
+}
+
+select {
+	width: 35%;
+	padding: 16px 20px;
+	border: none;
+	border-radius: 4px;
+	background-color: #ffffff;
+	margin: 2px;
+	padding: 12px;
+}
+
+.name1 {
+	position: absolute;
+	left: 370px;
+	top: 70px;
+}
+
+.name2 {
+	position: absolute;
+	left: 470px;
+	right: 970px;
+	top: 60px;
+	width: 35px;
+}
+
+.surname1 {
+	position: absolute;
+	left: 370px;
+	top: 130px;
+}
+
+.surname2 {
+	position: absolute;
+	left: 470px;
+	top: 110px;
+	width: 35px;
+}
+
+.birthday1 {
+	position: absolute;
+	left: 370px;
+	top: 188px;
+}
+
+.birthday2 {
+	position: absolute;
+	left: 470px;
+	top: 184px;
+	width: 155px;
+}
+
+.startDade1 {
+	position: absolute;
+	left: 638px;
+	top: 188px;
+}
+
+.startDade2 {
+	position: absolute;
+	left: 770px;
+	top: 183px;
+	width: 155px;
+}
+
+.salary1 {
+	position: absolute;
+	left: 370px;
+	top: 240px;
+}
+
+.salary2 {
+	position: absolute;
+	left: 470px;
+	top: 220px;
+	width: 35px;
+}
+
+.number1 {
+	position: absolute;
+	left: 370px;
+	top: 360px;
+}
+
+.number2 {
+	position: absolute;
+	left: 470px;
+	top: 350px;
+	width: 35px;
+}
+
+.email1 {
+	position: absolute;
+	left: 370px;
+	top: 420px;
+}
+
+.email2 {
+	position: absolute;
+	left: 470px;
+	top: 400px;
+	width: 35px;
+}
+
+.adress1 {
+	position: absolute;
+	left: 370px;
+	top: 480px;
+}
+
+.adress2 {
+	position: absolute;
+	left: 470px;
+	top: 460px;
+	width: 35px;
+}
+
+.dep1 {
+	position: absolute;
+	left: 370px;
+	top: 540px;
+}
+
+.dep2 {
+	position: absolute;
+	left: 470px;
+	top: 530px;
+	width: 465px;
+}
+
+.gender {
+	position: absolute;
+	left: 370px;
+	top: 298px;
+}
+
+.one {
+	position: absolute;
+	left: 500px;
+	top: 298px;
+}
+
+.two {
+	position: absolute;
+	left: 620px;
+	top: 298px;
+}
+
+.fincode1 {
+	position: absolute;
+	left: 370px;
+	top: 600px;
+}
+
+.fincode2 {
+	position: absolute;
+	left: 470px;
+	top: 580px;
+	width: 475px;
+}
+
+.position1 {
+	position: absolute;
+	left: 370px;
+	top: 660px;
+}
+
+.position2 {
+	position: absolute;
+	left: 470px;
+	top: 640px;
+	width: 35px;
+}
+
+.image{
+	position: absolute;
+	left: 470px;
+	top: 710px;
+}
+.image2{
+	position: absolute;
+	left: 370px;
+	top:  709px;
+	width: 35px;
+}
+
+
+.button1 {
+	position: absolute;
+	left: 90px;
+	top: 740px;
+}
+
+.button2 {
+	position: absolute;
+	left: 90px;
+	top: 790px;
+}
+
+.button5 {
+	background-color: white;
+	color: black;
+	border: 2px solid #555555;
+}
+
+.button5:hover {
+	background-color: #555555;
+	color: white;
+}
